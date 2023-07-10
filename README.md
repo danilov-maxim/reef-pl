@@ -41,6 +41,8 @@ After that you reseive next three tasks and should write a code:
 1. You should write a simple txt-line reverser
 2. You should write a simple csv column swapper
 3. You should play in game "write on python3.9" but something is broken here.
+
+Answers in catalogue.
    
 
 
